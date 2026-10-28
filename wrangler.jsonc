@@ -1,9 +1,5 @@
 {
-     "$schema": "node_modules/wrangler/config-schema.json",
-     "name": "jane",
-     "main": "dist/_worker.js/index.js",
-     "compatibility_date": "2026-10-23",
-     "compatibility_flags": ["global_fetch_strictly_public"],
-     "observability": { "enabled": true },
-     "assets": { "binding": "ASSETS", "directory": "dist" }
-   }
+  "name": "jane",
+  "compatibility_date": "2026-10-23",
+  "assets": { "directory": "./dist" }
+}
