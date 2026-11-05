@@ -12,7 +12,7 @@ Through the interview of Kiripost and Dr. Sébastien Boyer, Head of Medical and 
 
 Yet, scientifically, these cues do not fully explain why some people are more attractive to mosquitoes than others. Although studies have been done all over different parts of the world, it seems as though no one’s species is the same as the other. International studies have identified multiple cues on how mosquitoes locate human hosts, however how these findings apply to Cambodia remains uncertain.”
 
-import photo from '../../assets/DSB.JPG';
+import photo from '../../../assets/DSB.JPG';
 
 <figure>
   <img src={photo.src} alt="interview" />
